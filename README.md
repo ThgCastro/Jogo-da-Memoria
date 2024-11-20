@@ -27,15 +27,6 @@ O projeto foi construído com as seguintes tecnologias:
 - Contagem de pares encontrados ✔️
 - Reinício automático do jogo após completar todos os pares 🏆
 
-## 📁 Estrutura de Arquivos
-
-
-## 🐾 Melhorias Futuras
-
-- Adicionar um cronômetro para o jogador tentar bater seu próprio recorde de tempo ⏱️
-- Sistema de pontuação baseado no número de movimentos ou tempo 🏅
-- Opção de selecionar diferentes temas de emojis 🎨
-
 ## 📚 Aprendizados
 
 Neste projeto, apliquei conceitos importantes como:

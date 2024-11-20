@@ -40,8 +40,3 @@ O projeto foi construído com as seguintes tecnologias:
 
 Neste projeto, apliquei conceitos importantes como:
 - Manipulação do DOM com JavaScript.
-
-
----
-
-Feito com ❤️ por Raiane Batista.
